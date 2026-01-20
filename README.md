@@ -1,7 +1,6 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Zalando+Sans+Expanded&weight=500&size=30&pause=500&color=CCB310&width=600&lines=Hey%F0%9F%91%8B%2C+I'm+Abishek+C;AI-Driven+Full+Stack+Developer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Zalando+Sans+Expanded&weight=500&size=30&pause=500&color=CCB310&center=true&vCenter=true&width=700&lines=Hey%F0%9F%91%8B%2C+I'm+Abishek+C;AI-Driven+Full+Stack+Developer" alt="Typing SVG" /></a>
 </h1>
-
 
 <h3 align="center">
   🤖 AI-Driven Full Stack Developer focused on building intelligent, scalable web applications.  
@@ -9,7 +8,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abishek66r&label=Profile%20Views&color=36BCF7&style=heart" />
+  <img src="https://komarev.com/ghpvc/?username=abishek66r&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 </p>
 
 ---
